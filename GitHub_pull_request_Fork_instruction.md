@@ -1,7 +1,7 @@
 # Как сделать pull request
 
 1. Делаем копию - fork (вилка) репозитория себе в аккаунт
-2. git clone https://github.com/profile_name/repository_id - перетаскиваем удалённый репозиторий себе в локальный репозиторий через 
+2. git clone https://github.com/profile_name/repository_id - перетаскиваем удалённый репозиторий себе в локальный репозиторий 
 3. cd repository_name - переходим в папку клонированного репозитория 
 4. git branch new_branch_name - создаём отдельную ветку
 5. git checkout new_branch_name - переходим в созданную ветку

@@ -12,11 +12,12 @@
 3. git init - инициализируем репозиторий в текущей папке test
 4. создаём файл file.md в папке test
 5. git add .\file.md - добавляем file.md к локальному репозиторию test
-6. git commit -m "initial commit"
-7. создаём новый репозиторий на github
+6. git commit -m "initial commit" - добавляем коммит 
+7. создаём новый репозиторий на github, он предложит нам следующие строчки:
 8. git remote add origin https://github.com/eugene1284/My-first-repository.git
 9. git branch -M main
 10. git push -u origin main
+11. обновляем страничку с репозиторием на гитхаб, готово, файл, созданный на компьютере будет в удалённом репозитории
 
 
 ### Повторение

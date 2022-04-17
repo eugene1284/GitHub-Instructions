@@ -8,9 +8,15 @@
 6. git push - эта команда позволяет отправить нашу версию репозитория на внешний репозиторий
 
 ## Инструкция по переносу своего локального репозитория в онлайн репозиторий на github
-1. git remote add origin https://github.com/eugene1284/My-first-repository.git
-2. git branch -M main
-3. git push -u origin main
+0. создаём папку и открываем её с помощью VSC
+3. git init - инициализируем репозиторий в текущей папке test
+4. создаём файл file.md в папке test
+5. git add .\file.md - добавляем file.md к локальному репозиторию test
+6. git commit -m "initial commit"
+7. создаём новый репозиторий на github
+8. git remote add origin https://github.com/eugene1284/My-first-repository.git
+9. git branch -M main
+10. git push -u origin main
 
 
 ### Повторение
